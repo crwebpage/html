@@ -72,7 +72,8 @@ div#mainContents div.topicsBox span{
 
 /* 新着情報 */
 div#newTopics{
-	float: left;
+    float: left;
+    width: 70%;
 }
 
 	div#newTopics strong{
@@ -85,7 +86,7 @@ div#newTopics{
 
 	div#newTopics dl{
 		overflow: scroll;
-		width: 80%;
+		width: 95%;
 		height: 320px;
 	}
 
@@ -110,7 +111,44 @@ div#newTopics{
 		padding-left: 20px;
 	}
 
+div#newPublications{
+    float: left;
+    width: 30%;
+}
 
+	div#newPublications strong{
+		font-weight: bold;
+		font-size: 13px;
+		margin-bottom: 8px;
+		display: block;
+		font-size: 14px;
+	}
+
+	div#newPublications dl{
+		overflow: auto;
+		width: 95%;
+		height: 320px;
+	}
+
+	div#newPublications dl dt,
+	div#newPublications dl dd{
+		padding: 10px 0;
+		border-bottom: 1px solid #ddd;
+	}
+
+	div#newPublications dl dt{
+		float:left;
+		width:75px;
+		clear:both;
+		color: #c00;
+		background: url(../img/bg_boder.gif) repeat 0 0 ;
+	}
+
+
+	div#newPublications dl dd{
+		width:95%;
+		padding-left: 5px;
+	}
 
 div#outlineBox{
 	margin-left: 33px;
