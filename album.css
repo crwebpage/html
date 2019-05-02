@@ -1,0 +1,20 @@
+.fig_box {
+    margin: 20px;
+    text-align: center;
+     width: 350px;
+    height: 250px;
+    float: left;
+}
+
+.fig_box img{
+    height: 200px;
+}
+
+.fig_box h2{
+    font-size: large;
+}
+
+h2{
+    clear: both;
+    border-bottom: solid 3px black;
+}
