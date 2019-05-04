@@ -53,18 +53,29 @@ div#mainContents div.ProjectNewBox{
     text-align: center;
 }
 
-
-h3{
-    /*background: #3cb3e4;*/
+div#mainContents div.ProjectNewBox div#ProjectX h3{
     background: #990000;
-    /*padding: 5px 5px;*/
     border-radius: 0 10px 0 10px;
     color: #fff;
     font-size:15pt;
 }
 
+div#mainContents div.ProjectNewBox div#ProjectMeV h3{
+    background: #009900;
+    border-radius: 0 10px 0 10px;
+    color: #fff;
+    font-size:15pt;
+}
+
+div#mainContents div.ProjectNewBox div#ProjectTeV h3{
+    background: #000099;
+    border-radius: 0 10px 0 10px;
+    color: #fff;
+    font-size:15pt;
+}
+    
 h4{
-    font-size:11pt;
+    font-size:12pt;
     font-weight: bold;
 }
 
@@ -74,7 +85,7 @@ div#mainContents div.ProjectNewBox div.fig_box {
     overflow:hidden;
     text-align: center;
     margin: 1%;
-    position:relative;/* 相対位置指定 */
+    position:relative;
     float: left;
 }
 
@@ -82,30 +93,26 @@ div#mainContents div.ProjectNewBox div.fig_box img{
     width: 90%;
 }
 
-/*
-img{
-    width: 90%;
-}
-*/
 div#mainContents div.ProjectNewBox div.fig_box .caption {
     font-size:130%;
     text-align: center;
-    padding-top:80px;
+    /* padding-top:80px;*/
+    /*    padding-top: 30%;*/
     color:#fff;
 }
 div#mainContents div.ProjectNewBox div.fig_box .mask {
     width:100%;
     height:100%;
-    position:absolute;/* 絶対位置指定 */
+    position:absolute;
     top:0;
     left:0;
-    opacity:0;/* マスクを表示しない */
-    background-color:rgba(0,0,0,0.4);/* マスクは半透明 */
+    opacity:0;
+    background-color:rgba(0,0,0,0.4);
     -webkit-transition:all 0.2s ease;
     transition:all 0.2s ease;
 }
 div#mainContents div.ProjectNewBox .fig_box:hover .mask {
-    opacity:1;/* マスクを表示する */
+    opacity:1;
 }
 
 
