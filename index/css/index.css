@@ -152,6 +152,44 @@ div#mainContents div.topicsBox span{
 	margin-bottom: 14px;
 }
 
+/* 紹介映像 */
+div#movie{
+    float: left;
+    width:70%;
+}
+div#movie strong{
+    font-weight: bold;
+    font-size: 13px;
+    margin-bottom: 8px;
+	display: block;
+	font-size: 14px;
+}
+div#movie div.fig {
+    /*width: 98%;*/  
+    overflow:hidden;
+    text-align: center;
+    margin: 1%;
+    position:relative;
+    float: left;
+}
+/*div#movie div.NewBox{
+    width: 98%;  
+    overflow:hidden;
+    text-align: center;
+    margin: 1%;
+    position:relative;
+    float: left;
+}*/
+div#movie div.fig p{
+    font-size:12pt;
+    font-weight: bold;
+    /*width: 98%;  
+    overflow:hidden;*/
+    /*text-align: center;*/
+    /*margin: 1%;*/
+    /*position:relative;
+    float: left;*/
+}
 
 /* 新着情報 */
 div#newTopics{
