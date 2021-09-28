@@ -1,0 +1,1258 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>OB/OG 紹介</title>
+<meta name="keywords" content="キーワード" />
+<meta name="description" content="サイトの説明" />
+<meta http-equiv="Content-Language" content="ja" />
+<meta http-equiv="Content-Script-Type" content="text/javascript" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="imagetoolbar" content="no" />
+<link href="share/css/set/import.css" rel="stylesheet" type="text/css" media="all" />
+<link href="share/css/share.css" rel="stylesheet" type="text/css" media="all" />
+<link href="index/css/index.css" rel="stylesheet" type="text/css" media="all" />
+<link href="favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon" />
+<link href="favicon.ico" rel="icon" type="image/vnd.microsoft.icon" />
+<script type="text/javascript" src="share/js/default.js"></script>
+</head>
+<body>
+	<div id="wrapper">
+		<div id="headerBg" class="clearfix">
+			<div id="header">
+				<h1><B><FONT size= "5" face="Times New Roman">OB/OG 紹介</FONT></B> </h1>
+				<ul id="gNavi" class="clearfix">
+					<!--<li><B><a href="preparation.html" title="">懲りない面々(写真)</a></B></li>-->
+					<li><B><a href="../life" title="">写真</a></B></li>
+					<li><B><a href="" title="">OB/OG紹介</a></B></li>
+					<li><B><a href="index.html" title="">メンバー紹介</a></B></li>
+					<li class="firstItem"><B><a href="../index.html" title="">ホーム</a></B></li>
+				</ul>
+			</div>
+		</div>
+
+<div id="mainContents" class="clearfix">
+
+<div id="aboutus">
+
+	<div id="aboutus-news">
+			<table width="800">
+              <tbody>
+                <tr>
+                  <th width="60"><B><FONT size= "2">卒業年度</FONT></B></th>
+                  <th width="100"><B><FONT size= "2">名前</FONT></B></th>
+                  <th width="140"><B><FONT size= "2">Name</FONT></B></th>
+                  <th width="80"><B><FONT size= "2">所属</FONT></B></th>
+                  <th width="100"><B><FONT size= "2">転出時</FONT></B></th>
+                  <th width="180"><B><FONT size= "2">転出先</FONT></B></th>
+                  <th width="180"><B><FONT size= "2">現職</FONT> <font size= "1.5">(研究職のみ, 2021年4月更新)</font></B></th>
+                </tr>
+
+		<tr>
+		  <td>2020</td>
+		  <td>田中 孝明</td>
+		  <td>Tanaka Takaaki</td>
+		  <td>X 線</td>
+		  <td>助教</td>
+		  <td>甲南大学 准教授</td>
+		  <th>甲南大学 准教授</th>
+		</tr>
+
+		<tr>
+		  <td>2020</td>
+		  <td>尾近 洸行</td>
+		  <td>Okon Hiromichi</td>
+		  <td>X 線</td>
+		  <td>D3(学振)</td>
+		  <td></td>
+		  <th></th>
+		</tr>
+
+		<tr>
+		  <td>2020</td>
+		  <td>児玉 涼太</td>
+		  <td>Kodama Ryota</td>
+		  <td>X 線</td>
+		  <td>M2</td>
+		  <td></td>
+		  <th></th>
+		</tr>
+
+		<tr>
+		  <td>　</td>
+		</tr>
+		
+		<tr>
+		  <td>2019</td>
+		  <td>水村 好貴</td>
+		  <td>Mizumura Yoshitaka</td>
+		  <td>γ 線</td>
+		  <td>PD</td>
+		  <td>ISAS/JAXA 助教</td>
+		  <th>ISAS/JAXA 助教</th>
+		</tr>
+
+		<tr>
+		  <td>2019</td>
+		  <td>竹村 泰斗</td>
+		  <td>Takemura Taito</td>
+		  <td>γ 線</td>
+		  <td>D3</td>
+		  <td></td>
+		  <th></th>
+		</tr>
+
+
+		<tr>
+		  <td>2019</td>
+		  <td>中村 優太</td>
+		  <td>Nakamura Yuta</td>
+		  <td>γ 線</td>
+		  <td>D2</td>
+		  <td></td>
+		  <th></th>
+		</tr>
+
+
+		<tr>
+		  <td>2019</td>
+		  <td>梶原 侑貴</td>
+		  <td>Kajiwara Yuki</td>
+		  <td>γ 線</td>
+		  <td>M2</td>
+		  <td></td>
+		  <th></th>
+		</tr>
+
+		<tr>
+		  <td>2019</td>
+		  <td>今川 要</td>
+		  <td>Imagawa Kaname</td>
+		  <td>γ 線</td>
+		  <td>M1</td>
+		  <td></td>
+		  <th></th>
+		</tr>
+
+
+		<tr>
+		  <td>　</td>
+		</tr>
+		
+		<tr>
+		  <td>2018</td>
+		  <td>増田 周</td>
+		  <td>Masuda Shu</td>
+		  <td>γ 線</td>
+		  <td>D3</td>
+		  <td>総合電機メーカー</td>
+		  <th></th>
+		</tr>
+
+		<tr>
+		  <td>2018</td>
+		  <td>小野坂 健</td>
+		  <td>Onozaka Ken</td>
+		  <td>γ 線</td>
+		  <td>M2</td>
+		  <td>電気機器メーカー</td>
+		  <th></th>
+		</tr>
+		
+		<tr>
+		  <td>2018</td>
+		  <td>奥野 智行</td>
+		  <td>Okuno Tomoyuki</td>
+		  <td>X 線</td>
+		  <td>M2</td>
+		  <td>総合電機メーカー</td>
+		  <th></th>
+		</tr>
+
+		<tr>
+		  <td>2018</td>
+		  <td>齋藤 要</td>
+		  <td>Saito Kaname</td>
+		  <td>γ 線</td>
+		  <td>M2</td>
+		  <td></td>
+		  <th></th>
+		</tr>
+		
+		<tr>
+		  <td>2018</td>
+		  <td>原田 颯大</td>
+		  <td>Harada Sodai</td>
+		  <td>X 線</td>
+		  <td>M2</td>
+		  <td>総合電機メーカー</td>
+		  <th></th>
+		</tr>
+
+		<tr>
+		  <td>2018</td>
+		  <td>平子 丈</td>
+		  <td>Hirako Joe</td>
+		  <td>γ 線</td>
+		  <td>M2</td>
+		  <td>経営コンサルティング企業</td>
+		  <th></th>
+		</tr> 
+
+		<tr>
+		  <td>　</td>
+		</tr>
+	
+		<tr>
+		  <td>2017</td>
+		  <td>小林 翔悟</td>
+		  <td>Kobayashi Shogo</td>
+		  <td>X 線</td>
+		  <td>PD</td>
+		  <td>東京理科大学　助教</td>
+		  <th>東京理科大学　助教</th>
+		</tr>		
+
+		<tr>
+		  <td>2017</td>
+		  <td>岸本 哲朗</td>
+		  <td>Kishimoto Tetsuro</td>
+		  <td>γ 線</td>
+		  <td>D3</td>
+		  <td>製造業開発職</td>
+		  <th></th>
+		</tr> 	
+		
+		<tr>
+		  <td>2017</td>
+		  <td>古村 翔太郎</td>
+		  <td>Komura Shotaro</td>
+		  <td>γ 線</td>
+		  <td>D3</td>
+		  <td>医療機器ベンチャー企業</td>
+		  <th></th>
+		</tr>
+
+		<tr>
+		  <td>2017</td>
+		  <td>松村 英晃</td>
+		  <td>Matsumura Hideaki</td>
+		  <td>X 線</td>
+		  <td>D3 (学振)</td>
+		  <td>東京大学 IPMU PD (学振)</td>
+		  <th></th>
+		</tr>
+		
+		
+		<tr>
+		  <td>2017</td>
+		  <td>立花 克裕</td>
+		  <td>Tachibana Katsuhiro</td>
+		  <td>X 線</td>
+		  <td>M2</td>
+		  <td>自転車関連企業</td>
+		  <th></th>
+		</tr> 
+		
+		<tr>
+		  <td>2017</td>
+		  <td>谷口 幹幸</td>
+		  <td>Taniguchi Tomoyuki</td>
+		  <td>γ 線</td>
+		  <td>M2</td>
+		  <td>総合電機メーカー</td>
+		  <th></th>
+		</tr>
+
+		<tr>
+		  <td>2017</td>
+		  <td>林 秀輝</td>
+		  <td>Hayashi Hideki</td>
+		  <td>X 線</td>
+		  <td>M2</td>
+		  <td>電気機器メーカー</td>
+		  <th></th>
+		</tr>
+		
+
+		
+			
+		
+		<tr>
+		  <td>　</td>
+		</tr>
+		
+				<tr>
+					<td>2016</td>
+					<td>伊藤 真音</td>
+					<td>Ito Makoto</td>
+					<td>X 線</td>
+					<td>M2</td>
+					<td>電子部品専業メーカー</td>
+					<th></th>
+				</tr>
+
+				<tr>
+					<td>2016</td>
+					<td>大村 峻一</td>
+					<td>Ohmura Shunichi</td>
+					<td>X 線</td>
+					<td>M2</td>
+					<td>宇宙開発関連企業</td>
+					<th></th>
+				</tr>
+
+				<tr>
+					<td>2016</td>
+					<td>今野 祐介</td>
+					<td>Konno Yusuke</td>
+					<td>γ線</td>
+					<td>D3</td>
+					<td>医療機器メーカー</td>
+					<th></th>
+				</tr>
+
+				<tr>
+					<td>2016</td>
+					<td>齋藤 隆之</td>
+					<td>Saito Takayuki</td>
+					<td>γ線</td>
+					<td>特任助教</td>
+					<td>東京大学ICRR 助教</td>
+					<th>東京大学ICRR 助教</th>
+				</tr>
+
+				<tr>
+					<td>2016</td>
+					<td>園田 真也</td>
+					<td>Sonoda Shinya</td>
+					<td>γ線</td>
+					<td>PD</td>
+					<td>京都 Space Gamma</td>
+					<th></th>
+				</tr>
+
+				<tr>
+					<td>2016</td>
+					<td>武田 彩希</td>
+					<td>Takeda Ayaki</td>
+					<td>X 線</td>
+					<td>PD</td>
+					<td>宮崎大学 助教</td>
+					<th>宮崎大学 准教授</th>
+				</tr>
+
+				<tr>
+					<td>2016</td>
+					<td>谷川 俊介</td>
+					<td>Tanigawa Shunsuke</td>
+					<td>γ線</td>
+					<td>M2</td>
+					<td>社会インフラ企業</td>
+					<th></th>
+				</tr>
+
+				<tr>
+					<td>2016</td>
+					<td>中増 勇真</td>
+					<td>Nakamasu Yuma</td>
+					<td>γ線</td>
+					<td>M2</td>
+					<td>総合電機メーカー</td>
+					<th></th>
+				</tr>
+
+				<tr>
+					<td>2016</td>
+					<td>水本 哲矢</td>
+					<td>Mizumoto Tetsuya</td>
+					<td>γ線</td>
+					<td>PD</td>
+					<td>京都 Space Gamma</td>
+					<th></th>
+				</tr>
+
+ 				<tr>
+					<td>　</td>
+				</tr>
+
+				<tr>
+					<td>2015</td>
+					<td>信川 久実子</td>
+					<td>Nobukawa Kumiko</td>
+					<td>X 線</td>
+					<td>D3 (学振)</td>
+					<td>奈良女子大学 PD (学振)</td>
+					<th>近畿大学 講師</th>
+				</tr>
+
+				<tr>
+					<td>2015</td>
+					<td>畑中 謙一郎</td>
+					<td>Hatanaka kenichiro</td>
+					<td>γ線</td>
+					<td>D2</td>
+					<td></td>
+					<th>　</th>
+				</tr>
+
+				<tr>
+					<td>2015</td>
+					<td>宮本 奨平</td>
+					<td>Miyamoto Shohei</td>
+					<td>γ線</td>
+					<td>M2</td>
+					<td>分析・計測機器 総合メーカー</td>	
+					<th>　</th> 
+				</tr>
+
+				<tr>
+					<td>2015</td>
+					<td>鷲野 遼作</td>
+					<td>Washino Ryosaku</td>
+					<td>X 線</td>
+					<td>M2</td>
+					<td>総合電機メーカー</td>	
+					<th>　</th> 
+				</tr>         
+ 
+				<tr>
+					<td>2015</td>
+					<td>友野 大</td>
+					<td>Tomono Dai</td>
+					<td>γ線</td>
+					<td>PD</td>
+					<td>大阪大学RCNP 研究員</td>
+					<th>大阪大学RCNP 特任助教</th>
+				</tr> 
+
+				<tr>
+					<td>　</td>
+				</tr>
+
+				<tr>
+					<td>2014</td>
+					<td>松岡 佳大</td>
+					<td>Matsuoka Yoshihiro</td>
+					<td>γ線</td>
+					<td>D3</td>
+					<td>光学機器メーカー</td>
+					<th>　</th>	
+				</tr>
+
+				<tr>
+					<td>2014</td>
+					<td>小田 真</td>
+					<td>Oda Makoto</td>
+					<td>γ線</td>
+					<td>M2</td>
+					<td>総合印刷会社</td>	
+					<th>　</th>	
+				</tr>   
+
+				<tr>
+					<td>2014</td>
+					<td>土屋 優悟</td>
+					<td>Tsuchiya Yugo</td>
+					<td>γ線</td>
+					<td>M2</td>
+					<td>投資銀行・証券持株会社</td>
+					<th>　</th>	
+				</tr> 
+
+				<tr>
+					<td>2014</td>
+					<td>高田 明寛</td>
+					<td>Takata Akihiro</td>
+					<td>X 線</td>
+					<td>M2</td>
+					<td>半導体メーカー</td>	
+					<th>　</th>	
+				</tr> 				  				
+
+				<tr>
+					<td>2014</td>
+					<td>小池 貴之</td>
+					<td>Koike Takayuki</td>
+					<td>X 線</td>
+					<td>M1</td>
+					<td>　</td>	
+					<th>　</th>	
+				</tr> 
+				
+				<tr>
+					<td>　</td>
+				</tr>
+				
+				<tr>
+					<td>2013</td>
+					<td>Parker Joseph</td>
+					<td>Parker Joseph</td>
+					<td>γ線</td>
+					<td>PD</td>
+					<td>CROSS東海 副主任技師</td>
+					<th>CROSS東海 副主任技師</th>
+				</tr> 	
+				
+				<tr>
+					<td>2013</td>
+					<td>大西 隆雄</td>
+					<td>Onishi Takao</td>
+					<td>X 線</td>
+					<td>D3 (学振)</td>
+					<td>文部科学省</td>	
+					<th>　</th>	
+				</tr>
+				
+				<tr>
+					<td>2013</td>
+					<td>中島 真也</td>
+					<td>Nakashima Sinya</td>
+					<td>X 線</td>
+					<td>D3 (学振)</td>
+					<td>ISAS プロジェクト研究員</td>	
+					<th></th>	
+				</tr>
+
+				<tr>
+					<td>2013</td>
+					<td>澤野 達哉</td>
+					<td>Sawano Tatsuya</td>
+					<td>γ線</td>
+					<td>D3 (学振)</td>
+					<td>金沢大学 研究員</td>
+					<th>金沢大学 助教</th>
+				</tr> 
+				
+				<tr>
+					<td>2013</td>
+					<td>中村 輝石</td>
+					<td>Nakamura Kiseki</td>
+					<td>γ線</td>
+					<td>D3 (学振)</td>
+					<td>京都大学 研究員</td>
+					<th>東北大学 助教</th>
+				</tr> 				
+
+				<tr>
+					<td>2013</td>
+					<td>菅原 隆介</td>
+					<td>Sugawara Ryusuke</td>
+					<td>X 線</td>
+					<td>M2</td>
+					<td>マーケティング企業</td>
+					<th>　</th>
+				</tr> 	
+
+				<tr>
+					<td>2013</td>
+					<td>八隅 真人</td>
+					<td>Yasumi Masato</td>
+					<td>X 線</td>
+					<td>M2</td>
+					<td>ジュエリーメーカー</td>	
+					<th>　</th>	
+				</tr> 
+
+				<tr>
+					<td>2013</td>
+					<td>中村 祥吾</td>
+					<td>Nakamura Shogo</td>
+					<td>γ線</td>
+					<td>M2</td>
+					<td>　</td>
+					<th>　</th>
+				</tr> 
+				
+				<tr>
+					<td>　</td>
+				</tr>
+				
+				<tr>
+					<td>2012</td>
+					<td>劉 周強</td>
+					<td>Ryu Syukyo</td>
+					<td>X 線</td>
+					<td>D3 (学振)</td>
+					<td>総合電機メーカー</td>
+					<th>　</th>
+				</tr> 		
+								
+				<tr>
+					<td>2012</td>
+					<td>粟根 悠介</td>
+					<td>Awane Yusuke</td>
+					<td>γ線</td>
+					<td>M2</td>
+					<td>　</td>
+					<th>　</th>	
+				</tr> 
+				
+				<tr>
+					<td>　</td>
+				</tr>
+				
+				<tr>
+					<td>2011</td>
+					<td>身内 賢太朗</td>
+					<td>Miuchi Kentaro</td>
+					<td>γ線</td>
+					<td>助教</td>
+					<td>神戸大学 准教授</td>
+					<th>神戸大学 准教授</th>
+				</tr> 
+				
+				<tr>
+					<td>2011</td>
+					<td>澤田 真理</td>
+					<td>Sawada Makoto</td>
+					<td>X 線</td>
+					<td>D3 (学振)</td>
+					<td>青山学院大学 助教</td>
+					<th>青山学院大学 助教</th>
+				</tr>
+				
+				<tr>
+					<td>2011</td>
+					<td>岩城 智</td>
+					<td>Iwaki Satoru</td>
+					<td>γ線</td>
+					<td>D3</td>
+					<td>　</td>	
+					<th>　</th>	
+				</tr>
+				
+				<tr>
+					<td>2011</td>
+					<td>青野 正裕</td>
+					<td>Aono Masahiro</td>
+					<td>γ線</td>
+					<td>M2</td>
+					<td>　</td>
+					<th>　</th>
+				</tr> 	
+				
+				<tr>
+					<td>　</td>
+				</tr>	
+				
+				<tr>
+					<td>2010</td>
+					<td>株木 重人</td>
+					<td>Kabuki Sigeto</td>
+					<td>γ線</td>
+					<td>PD</td>
+					<td>東海大学 講師</td>
+					<th>東海大学 講師</th>
+				</tr>
+				
+				<tr>
+					<td>2010</td>
+					<td>岸本 祐二</td>
+					<td>Kishimoto Yugi</td>
+					<td>γ線</td>
+					<td>PD</td>
+					<td>KEK 助教</td>
+					<th>KEK 助教</th>
+				</tr> 	
+				
+				<tr>
+					<td>2010</td>
+					<td>信川 正順</td>
+					<td>Nobukawa Masayoshi</td>
+					<td>X 線</td>
+					<td>D3 (学振)</td>
+					<td>京都大学 特定助教</td>
+					<th>奈良教育大学 准教授</th>
+				</tr>
+				
+				<tr>
+					<td>2010</td>
+					<td>黒澤 俊介</td>
+					<td>Kurosawa Syunsuke</td>
+					<td>γ線</td>
+					<td>D3 (学振)</td>
+					<td>東北大学 PD(学振)</td>
+					<th>東北大学 准教授</th>
+				</tr>
+				
+				<tr>
+					<td>2010</td>
+					<td>谷上 幸次郎</td>
+					<td>Taniue Kogiro</td>
+					<td>γ線</td>
+					<td>M2</td>
+					<td>　</td>
+					<th>　</th>
+				</tr> 	
+				
+				<tr>
+					<td>2010</td>
+					<td>東 直樹</td>
+					<td>Higashi Naoki</td>
+					<td>γ線</td>
+					<td>M2</td>
+					<td>　</td>
+					<th>　</th>
+				</tr> 
+				
+				<tr>
+					<td>2010</td>
+					<td>曽根 幹央</td>
+					<td>Sone Mikio</td>
+					<td>X 線</td>
+					<td>M1</td>
+					<td>高校教師</td>
+					<th>　</th>
+				</tr> 		
+				
+				<tr>
+					<td>　</td>
+				</tr>
+				
+				<tr>
+					<td>2009</td>
+					<td>松本 浩典</td>
+					<td>Matsumoto Hironori</td>
+					<td>X 線</td>
+					<td>助教</td>
+					<td>名古屋大学 准教授</td>
+					<th>大阪大学 教授</th>
+				</tr> 	
+				
+				<tr>
+					<td>2009</td>
+					<td>内山 秀樹</td>
+					<td>Uchiyama Hideki</td>
+					<td>X 線</td>
+					<td>D3 (学振)</td>
+					<td>東京大学 PD</td>
+					<th>静岡大学 講師</th>
+				</tr> 	
+
+				<tr>
+					<td>2009</td>
+					<td>小澤 碧</td>
+					<td>Ozawa Midori</td>
+					<td>X 線</td>
+					<td>D3 (学振)</td>
+					<td>教育出版業界</td>
+					<th>　</th>
+				</tr>
+				
+				<tr>
+					<td>2009</td>
+					<td>上野 一樹</td>
+					<td>Ueno Kazuki</td>
+					<td>γ線</td>
+					<td>D3 (学振)</td>
+					<td>理研 PD</td>
+					<th>KEK 助教</th>
+				</tr> 		
+				
+				<tr>
+					<td>2009</td>
+					<td>水上 拓</td>
+					<td>Mizukami Taku</td>
+					<td>γ線</td>
+					<td>D3 (学振)</td>
+					<td>半導体メーカー</td>
+					<th>　</th>
+				</tr> 
+				
+				<tr>
+					<td>2009</td>
+					<td>福岡 亮輔</td>
+					<td>Hukuoka Ryosuke</td>
+					<td>X 線</td>
+					<td>M2</td>
+					<td>衛星開発メーカー</td>
+					<th>　</th>
+				</tr> 				
+				
+				<tr>
+					<td>2009</td>
+					<td>高橋 慶在</td>
+					<td>Takahashi Michiaki</td>
+					<td>γ線</td>
+					<td>M2</td>
+					<td>　</td>
+					<th>　</th>
+				</tr> 
+				
+				<tr>
+					<td>　</td>
+				</tr>
+				
+				<tr>
+					<td>2008</td>
+					<td>小山 勝二</td>
+					<td>Koyama Katsuji</td>
+					<td>X 線</td>
+					<td>教授</td>
+					<td>京都大学 名誉教授</td>
+					<th>京都大学 名誉教授</th>
+				</tr> 
+				
+				<tr>
+					<td>2008</td>
+					<td>兵藤 義明</td>
+					<td>Ryodou Yoshiaki</td>
+					<td>X 線</td>
+					<td>D3 (学振)</td>
+					<td>コンピューターメーカー</td>
+					<th>　</th>
+				</tr>
+				
+				<tr>
+					<td>2008</td>
+					<td>西村 広展</td>
+					<td>Nishimura Hironobu</td>
+					<td>γ線</td>
+					<td>D3</td>
+					<td>　</td>
+					<th>　</th>
+				</tr> 	
+				
+				<tr>
+					<td>2008</td>
+					<td>服部 香里</td>
+					<td>Hattori Kaori</td>
+					<td>γ線</td>
+					<td>D3</td>
+					<td>　</td>
+					<th>産業技術総合研究所 主任研究員</th>
+				</tr> 
+				
+				<tr>
+					<td>2008</td>
+					<td>井田 知宏</td>
+					<td>Ida chihiro</td>
+					<td>γ線</td>
+					<td>M2</td>
+					<td>　</td>
+					<th>　</th>
+				</tr> 
+				
+				<tr>
+					<td>　</td>
+				</tr>
+				
+				<tr>
+					<td>2007</td>
+					<td>土屋 兼一</td>
+					<td>Nishimura Hironobu</td>
+					<td>γ線</td>
+					<td>PD</td>
+					<td>パシフィックノースウエスト国立研究所 客員研究員</td>
+					<th>警察庁 科学警察研究所</th>
+				</tr> 
+				
+				<tr>
+					<td>2007</td>
+					<td>高田 淳史</td>
+					<td>Takada Atsushi</td>
+					<td>γ線</td>
+					<td>D3 (学振)</td>
+					<td>京都大学 PD</td>
+					<th>京都大学 助教</th>
+				</tr> 
+				
+				<tr>
+					<td>2007</td>
+					<td>森 英之</td>
+					<td>Mori Hideyuki</td>
+					<td>X 線</td>
+					<td>PD</td>
+					<td>ISAS 常勤招聘職員</td>
+					<th>名古屋大学 特任助教</th>
+				</tr>				
+				
+				<tr>
+					<td>2007</td>
+					<td>乾 達也</td>
+					<td>Inui Tatsuya</td>
+					<td>X 線</td>
+					<td>D3 (学振)</td>
+					<td>光学機器メーカー</td>
+					<th>　</th>
+				</tr> 
+				
+				<tr>
+					<td>2007</td>
+					<td>山口 弘悦</td>
+					<td>Yamakuchi Hiroya</td>
+					<td>X 線</td>
+					<td>D3 (学振)</td>
+					<td>理研 PD</td>
+					<th>ISAS 准教授</th>
+				</tr> 					
+				
+				<tr>
+					<td>2007</td>
+					<td>中森 健之</td>
+					<td>Nakamori Takeshi</td>
+					<td>γ線</td>
+					<td>D3 (学振)</td>
+					<td>東京工業大学 PD</td>
+					<th>山形大学 教授</th>
+				</tr> 
+				
+				<tr>
+					<td>2007</td>
+					<td>瀧川 庸二朗</td>
+					<td>Takigawa Youjiro</td>
+					<td>X 線</td>
+					<td>M2</td>
+					<td>銀行員</td>
+					<th>　</th>
+				</tr> 
+				
+				<tr>
+					<td>2007</td>
+					<td>東 悠介</td>
+					<td>HIgashi Yusuke</td>
+					<td>γ線</td>
+					<td>M2</td>
+					<td>　</td>
+					<th>　</th>
+				</tr>
+				
+				<tr>
+					<td>2007</td>
+					<td>中野 晋太朗</td>
+					<td>Nakano Shintaro</td>
+					<td>γ線</td>
+					<td>M2</td>
+					<td>　</td>
+					<th>　</th>
+				</tr> 
+				
+				<tr>
+					<td>　</td>
+				</tr>	
+
+				<tr>
+					<td>2006</td>
+					<td>田澤 雄二</td>
+					<td>Tazawa Yuji</td>
+					<td>宇宙固体</td>
+					<td>助教</td>
+					<td>　</td>
+					<th>　</th>
+				</tr> 	
+				
+				<tr>
+					<td>2006</td>
+					<td>渡部 至緒</td>
+					<td>Watanabe Shio</td>
+					<td>γ線</td>
+					<td>D3</td>
+					<td>　</td>
+					<th>　</th>
+				</tr>
+				
+				<tr>
+					<td>2006</td>
+					<td>中嶋 大</td>
+					<td>Nakajima Hiroshi</td>
+					<td>γ線</td>
+					<td>D3 (学振)</td>
+					<td>学振 PD</td>
+					<th>関東学院大学 准教授</th>
+				</tr>
+
+				<tr>
+					<td>2006</td>
+					<td>岡田 葉子</td>
+					<td>Okada Yoko</td>
+					<td>γ線</td>
+					<td>M2</td>
+					<td>　</td>
+					<th>　</th>
+				</tr>
+				
+				<tr>
+					<td>　</td>
+				</tr>	
+				
+				<tr>
+					<td>2005</td>
+					<td>片桐 秀明</td>
+					<td>Katagiri Hideaki</td>
+					<td>X 線</td>
+					<td>PD</td>
+					<td>広島大学 助教</td>
+					<th>茨城大学 准教授</th>
+				</tr>	
+				
+				<tr>
+					<td>2005</td>
+					<td>関谷 洋之</td>
+					<td>Sekiya Hiroyuki</td>
+					<td>γ線</td>
+					<td>PD</td>
+					<td>東京大学ICRR 助教</td>
+					<th>東京大学ICRR 准教授</th>
+				</tr>			
+
+				<tr>
+					<td>2005</td>
+					<td>高木 慎一郎</td>
+					<td>Takagi Sinichiro</td>
+					<td>X 線</td>
+					<td>D3 (学振)</td>
+					<td>半導体・光学検出器メーカー</td>
+					<th></th>
+				</tr>	
+				
+				<tr>
+					<td>2005</td>
+					<td>小野 健一</td>
+					<td>Ono Kenichi</td>
+					<td>X 線</td>
+					<td>M2</td>
+					<td>教育出版業界</td>
+					<th></th>
+				</tr>	
+				
+				<tr>
+					<td>2005</td>
+					<td>西田 大輔</td>
+					<td>Nishida Daisuke</td>
+					<td>γ線</td>
+					<td>M2</td>
+					<td></td>
+					<th></th>
+				</tr>	
+
+				<tr>
+					<td>　</td>
+				</tr>	
+								
+				<tr>
+					<td>2004</td>
+					<td>竹田 敦</td>
+					<td>Takeda Atsushi</td>
+					<td>γ線</td>
+					<td>PD</td>
+					<td>東京大学ICRR 助教</td>
+					<th>東京大学ICRR 准教授</th>
+				</tr>	
+				
+				<tr>
+					<td>2004</td>
+					<td>植野 優</td>
+					<td>Ueno Masaru</td>
+					<td>X 線</td>
+					<td>D3 (学振)</td>
+					<td></td>
+					<th></th>
+				</tr>	
+
+				<tr>
+					<td>2004</td>
+					<td>千田 篤史</td>
+					<td>Senda Atsushi</td>
+					<td>X 線</td>
+					<td>D3 (学振)</td>
+					<td>理研 PD</td>
+					<th>科学技術振興機構（JST）</th>
+				</tr>
+				
+				<tr>
+					<td>2004</td>
+					<td>折戸 玲子</td>
+					<td>Orito Reiko</td>
+					<td>γ線</td>
+					<td>D3 (学振)</td>
+					<td>神戸大学 学振PD</td>
+					<th>徳島大学 准教授</th>
+				</tr>	
+				
+				<tr>
+					<td>2004</td>
+					<td>永吉 勉</td>
+					<td>Nagayoshi Tsutomu</td>
+					<td>γ線</td>
+					<td>D3</td>
+					<td></td>
+					<th></th>
+				</tr>
+
+				<tr>
+					<td>2004</td>
+					<td>谷村 英樹</td>
+					<td>Tanimura Hideki</td>
+					<td>γ線</td>
+					<td>M2</td>
+					<td></td>
+					<th></th>
+				</tr>	
+				
+				<tr>
+					<td>　</td>
+				</tr>	
+								
+				<tr>
+					<td>2003</td>
+					<td>浅原 明広</td>
+					<td>Asahara Akihiro</td>
+					<td>γ線</td>
+					<td>D3</td>
+					<td></td>
+					<th></th>
+				</tr>
+				
+				<tr>
+					<td>2003</td>
+					<td>馬場 彩</td>
+					<td>Banba Aya</td>
+					<td>X 線</td>
+					<td>D3 (学振)</td>
+					<td>理研 基特研</td>
+					<th>東京大学 准教授</th>
+				</tr>	
+				
+				<tr>
+					<td>　</td>
+				</tr>	
+				
+				<tr>
+					<td>2002</td>
+					<td>原 敏</td>
+					<td>Hara Satoshi</td>
+					<td>γ線</td>
+					<td>D3</td>
+					<td>PD</td>
+					<th>山梨学院大学 教授</th>
+				</tr>
+				
+				<tr>
+					<td>2002</td>
+					<td>今西 健介</td>
+					<td>Imanishi Kensuke</td>
+					<td>X 線</td>
+					<td>D3</td>
+					<td></td>
+					<th></th>
+				</tr>
+				
+				<tr>
+					<td>2002</td>
+					<td>櫛田 淳子</td>
+					<td>Kushida Junko</td>
+					<td>γ線</td>
+					<td>D3</td>
+					<td>東海大学 助手</td>
+					<th>東海大学 教授</th>
+				</tr>
+				
+				<tr>
+					<td>2002</td>
+					<td>辻本 匡弘</td>
+					<td>Tsuzimoto Masahiro</td>
+					<td>X 線</td>
+					<td>D3 (学振)</td>
+					<td>海外学振PD</td>
+					<th>ISAS 准教授</th>
+				</tr>
+
+				<tr>
+					<td>　</td>
+				</tr>	
+								
+				<tr>
+					<td>2001</td>
+					<td>岩室 史英</td>
+					<td>Iwamuro Humihide</td>
+					<td>赤外線</td>
+					<td>D3</td>
+					<td>京都大学 助教</td>
+					<th>京都大学 准教授</th>
+				</tr>
+				
+				<tr>
+					<td>2001</td>
+					<td>横川 淳</td>
+					<td>Yokogawa Zyun</td>
+					<td>X 線</td>
+					<td>D3 (学振)</td>
+					<td>教育業界</td>
+					<th></th>
+				</tr>	
+				
+				<tr>
+					<td>2001</td>
+					<td>村上 弘志</td>
+					<td>Murakami Hiroshi</td>
+					<td>X 線</td>
+					<td>D3 (学振)</td>
+					<td>学振PD</td>
+					<th>東北学院大学 准教授</th>
+				</tr>
+				
+				<tr>
+					<td>2001</td>
+					<td>河野 誠</td>
+					<td>Kouno Makoto</td>
+					<td>X 線</td>
+					<td>D2</td>
+					<td>メーカー</td>
+					<th></th>
+				</tr>	
+				
+				<tr>
+					<td>　</td>
+				</tr>
+				
+				<tr>
+					<td>2000</td>
+					<td>片岡 淳</td>
+					<td>Kataoka Zyun</td>
+					<td>γ線</td>
+					<td>学振PD</td>
+					<td>東京工業大学 助手</td>
+					<th>早稲田大学 教授</th>
+				</tr>
+				
+				<tr>
+					<td>2000</td>
+					<td>西内 満美子</td>
+					<td>Nishiuchi Mamiko</td>
+					<td>X 線</td>
+					<td>D3 (学振)</td>
+					<td>原研関西 研究員</td>
+					<th>関西光科学研究所 上席研究員</th>
+				</tr>
+
+				<tr>
+					<td>2000</td>
+					<td>濱口 健二</td>
+					<td>Hamaguchi Kenji</td>
+					<td>X 線</td>
+					<td>D3 (学振)</td>
+					<td>NASA/GSFC</td>
+					<th></th>
+				</tr>
+				
+				<tr>
+					<td>　</td>
+				</tr>
+																																								
+																						
+              </tbody>
+            </table>
+		</div>
+
+		<h1><FONT size= "3" face="Times New Roman">1999年�<a href="http://www-cr.scphys.kyoto-u.ac.jp/obog.html.20160511">旧ホームベージ</a>へ</FONT></h1>	
+		<hr>
+		
+		<div id="pagetop"><a href="#wrapper">このページの先頭へ</a></div>
+		</div>
+
+</div>
+
+</body>
+</html>
+
